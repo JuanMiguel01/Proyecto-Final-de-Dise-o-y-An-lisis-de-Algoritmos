@@ -1,0 +1,14 @@
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\bin\Debug\net7.0\Greedy.exe
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\bin\Debug\net7.0\Greedy.deps.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\bin\Debug\net7.0\Greedy.runtimeconfig.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\bin\Debug\net7.0\Greedy.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\bin\Debug\net7.0\Greedy.pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\Greedy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\Greedy.AssemblyInfoInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\Greedy.AssemblyInfo.cs
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\Greedy.csproj.CoreCompileInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\Greedy.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\refint\Greedy.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\Greedy.pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\Greedy.genruntimeconfig.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Proyecto Final\Greedy\obj\Debug\net7.0\ref\Greedy.dll

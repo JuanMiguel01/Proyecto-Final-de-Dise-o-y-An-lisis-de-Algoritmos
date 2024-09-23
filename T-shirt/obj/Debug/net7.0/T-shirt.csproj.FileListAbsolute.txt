@@ -1,0 +1,14 @@
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\bin\Debug\net7.0\T-shirt.exe
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\bin\Debug\net7.0\T-shirt.deps.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\bin\Debug\net7.0\T-shirt.runtimeconfig.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\bin\Debug\net7.0\T-shirt.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\bin\Debug\net7.0\T-shirt.pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\T-shirt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\T-shirt.AssemblyInfoInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\T-shirt.AssemblyInfo.cs
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\T-shirt.csproj.CoreCompileInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\T-shirt.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\refint\T-shirt.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\T-shirt.pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\T-shirt.genruntimeconfig.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Greedy y Dinamica OK\Greedy y Dinamica OK\obj\Debug\net7.0\ref\T-shirt.dll
