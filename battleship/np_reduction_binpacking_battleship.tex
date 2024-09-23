@@ -150,4 +150,33 @@ A partir de la definición de $t$, se sigue que cada variable $x_j$ se asigna a 
 Ahora, supongamos que $t(x_j) = \text{true}$, entonces el conteo de columnas derecho de 3 (o 4, en caso de que $x_j$ aparezca cuatro veces en $\phi$) se satisface; el conteo de columnas izquierdo de 3 (o 4) se satisface colocando el barco $Z_j$ en la ranura izquierda, y así sucesivamente. De esta manera, el posicionamiento de los barcos asegura que la asignación de verdad se refleje correctamente en el tablero del rompecabezas.
 
 Esto completa la construcción del rompecabezas de BATTLESHIPS y muestra que cualquier solución válida al rompecabezas corresponde a una asignación de verdad satisfactoria para $\phi$. Por lo tanto, hemos demostrado la existencia de una reducción  de 3-SAT a BATTLESHIPS.
+\section{En búsqueda de una solución}
+
+\subsection{Backtracking}
+
+El \textbf{backtracking} es una técnica de búsqueda que explora todas las configuraciones posibles para encontrar una solución válida. Esta es la primera opción que nos viene a la mente. Este método se basa en construir soluciones parciales y, si se determina que una solución parcial no puede conducir a una solución completa válida, se retrocede y se prueba otra opción.
+
+\subsubsection{Características del Backtracking}
+\begin{itemize}
+    \item \textbf{Exploración Exhaustiva:} El backtracking intenta todas las combinaciones posibles hasta encontrar una solución o determinar que no existe.
+    \item \textbf{Condiciones de Parada:} Se detiene cuando encuentra una solución válida o cuando ha explorado todas las opciones posibles.
+    \item \textbf{Aplicaciones en Battleship:} En el contexto del rompecabezas de Battleship, el backtracking puede ser utilizado para colocar barcos en el tablero respetando las restricciones del juego (como no superponerse o tocarse).
+\end{itemize}
+
+Este método es efectivo para resolver el rompecabezas, aunque puede ser ineficiente para tableros grandes o flotas complejas debido a su naturaleza exponencial.
+
+\subsection{Algoritmos Genéticos}
+
+Los \textbf{algoritmos genéticos} son una técnica inspirada en la evolución natural. Se utilizan para encontrar soluciones óptimas mediante un proceso de selección, cruce y mutación de soluciones candidatas.
+
+\subsubsection{Funcionamiento}
+\begin{enumerate}
+    \item Se inicia con un conjunto inicial de soluciones (población).
+    \item Las soluciones se evalúan según un criterio de aptitud (fitness).
+    \item Se seleccionan las mejores soluciones para crear nuevas generaciones a través del cruce y la mutación.
+    \item Este proceso se repite hasta que se encuentra una solución satisfactoria o se alcanza un número máximo de generaciones.
+\end{enumerate}
+
+Los algoritmos genéticos son útiles cuando el espacio de búsqueda es muy grande, ya que permiten explorar múltiples configuraciones simultáneamente. Este método siempre proporciona una solución, aunque no necesariamente la ideal. Decidí implementar este enfoque, ya que, aunque en muchos casos no da soluciones óptimas, considero que puede ofrecer algunos buenos resultados.
+
 \end{document}

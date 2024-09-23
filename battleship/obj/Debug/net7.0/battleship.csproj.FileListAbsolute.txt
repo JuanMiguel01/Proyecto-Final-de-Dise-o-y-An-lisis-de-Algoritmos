@@ -1,0 +1,14 @@
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\bin\Debug\net7.0\battleship.exe
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\bin\Debug\net7.0\battleship.deps.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\bin\Debug\net7.0\battleship.runtimeconfig.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\bin\Debug\net7.0\battleship.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\bin\Debug\net7.0\battleship.pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\battleship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\battleship.AssemblyInfoInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\battleship.AssemblyInfo.cs
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\battleship.csproj.CoreCompileInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\battleship.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\refint\battleship.dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\battleship.pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\battleship.genruntimeconfig.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\subir github\Proyecto-Final-de-Dise-o-y-An-lisis-de-Algoritmos\battleship\obj\Debug\net7.0\ref\battleship.dll
