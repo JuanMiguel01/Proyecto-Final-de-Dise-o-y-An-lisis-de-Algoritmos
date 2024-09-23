@@ -1,0 +1,14 @@
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\bin\Debug\net7.0\Vebank .exe
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\bin\Debug\net7.0\Vebank .deps.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\bin\Debug\net7.0\Vebank .runtimeconfig.json
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\bin\Debug\net7.0\Vebank .dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\bin\Debug\net7.0\Vebank .pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\Vebank .GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\Vebank .AssemblyInfoInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\Vebank .AssemblyInfo.cs
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\Vebank .csproj.CoreCompileInputs.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\Vebank .dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\refint\Vebank .dll
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\Vebank .pdb
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\Vebank .genruntimeconfig.cache
+D:\Universidad\Cuarto\Segundo_Semestre\diseño y analisis de algoritmos\Ejercicios resueltos\Vebank\obj\Debug\net7.0\ref\Vebank .dll
